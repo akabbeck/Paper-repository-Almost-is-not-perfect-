@@ -1,6 +1,6 @@
 # Paper-repository--Almost-is-not-perfect-
 
-Study 1:
+Study 1&2:
 Run in PsychoPy v1.90.3, 165Hz
 
 use reaction pad
