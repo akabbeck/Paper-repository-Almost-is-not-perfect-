@@ -1,7 +1,7 @@
 # Paper-repository--Almost-is-not-perfect-
 
 Study 1&2:
-Run in PsychoPy v1.90.3, 165Hz
+Run scripts in PsychoPy v1.90.3 on 165Hz
 
 use reaction pad
 f/right= green button
