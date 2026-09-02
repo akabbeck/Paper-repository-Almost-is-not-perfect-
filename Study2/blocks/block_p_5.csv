@@ -1,0 +1,11 @@
+time2move,direction,response_trigger,start_orientation,corrAnsKey
+1,left,100,157.5,b
+1,right,200,202.5,f
+1,right,200,202.5,f
+3,right,200,202.5,f
+2,left,100,157.5,b
+2,left,100,157.5,b
+3,right,200,202.5,f
+3,right,200,202.5,f
+1,left,100,157.5,b
+2,left,100,157.5,b
