@@ -1,0 +1,20 @@
+RStudio packages
+
+readxl
+dplyr
+reshape2
+pastecs
+ggplot2
+lmtest
+car
+psych
+lmerTest
+performance
+emmeans
+effectsize
+ggeffects
+patchwork
+lme4
+sjPlot
+lattice
+influence.ME
