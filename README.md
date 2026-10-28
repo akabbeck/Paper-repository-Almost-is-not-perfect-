@@ -1,4 +1,4 @@
-# Paper-repository--Almost-is-not-perfect-
+# Paper-repository-Almost-is-not-perfect-
 
 Study 1&2:
 Run scripts in PsychoPy v1.90.3 on 165Hz
