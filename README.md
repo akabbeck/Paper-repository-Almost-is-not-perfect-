@@ -8,3 +8,24 @@ f/right= green button
 b/left= red button
 
 If Runner says port drivers con not be found, go to https://psychopy.org/hardware/parallelPortInstr.html
+
+RStudio packages
+
+readxl
+dplyr
+reshape2
+pastecs
+ggplot2
+lmtest
+car
+psych
+lmerTest
+performance
+emmeans
+effectsize
+ggeffects
+patchwork
+lme4
+sjPlot
+lattice
+influence.ME
